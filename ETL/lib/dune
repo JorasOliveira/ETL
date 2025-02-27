@@ -1,2 +1,3 @@
 (library
- (name ETL))
+ (name ETL)
+ (libraries csv))
