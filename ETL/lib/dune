@@ -1,3 +1,4 @@
 (library
  (name ETL)
- (libraries csv))
+ (libraries csv)
+ (modules types csv_processor parser printer summarizer))
